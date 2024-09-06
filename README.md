@@ -34,3 +34,21 @@ This project explores the integration of cryptocurrency dynamics (Bitcoin, Ether
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Stock-Crypto-Prediction.git
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the Jupyter notebook:
+   ```bash
+   jupyter notebook Stocks_Crypto_Analysis.ipynb
+
+## Future Work
+
+- Explore real-time market trading strategies.
+- Enhance prediction accuracy with additional macroeconomic variables.
+- Study dynamic relationships during periods of market volatility using regime-switching models.
+
+## References
+
+Syed Farhan Haider, Dissertation Paper: "Enhancing Stock Price Predictions by Integrating Cryptocurrency Dynamics and Macroeconomic Indicators."
